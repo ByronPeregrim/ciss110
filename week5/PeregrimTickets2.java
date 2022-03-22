@@ -15,8 +15,8 @@ public class PeregrimTickets2
         System.out.println("\t[J]ohn Cain       $145.50\n");
 
         System.out.println("Enter R, M, or J:");
-        var charInput = keyboard.nextLine();
-        var arenaSelection = charInput.charAt(0);
+        String charInput = keyboard.nextLine();
+        char arenaSelection = charInput.charAt(0);
         double ticketPrice = 0;
         switch (arenaSelection)
         {
