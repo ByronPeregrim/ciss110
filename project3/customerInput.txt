@@ -1,0 +1,40 @@
+CK901
+Daniel LaRusso
+5189999999
+B
+51.20
+CK581
+Johnny Lawrence
+5188888888
+C
+103.59
+CK109
+Miguel Diaz
+5185555555
+A
+24.99
+CK318
+Samantha LaRusso
+5182222222
+D
+59.89
+CK223
+Robby Keene
+5181111111
+C
+20.88
+CK712
+Eli Moskowitz
+5184444444
+A
+15.44
+CK860
+Tory Nichols
+5183333333
+B
+202.11
+CK554
+John Kreese
+5187777777
+D
+33.12
